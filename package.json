@@ -1,0 +1,20 @@
+{
+  "name": "mini-mission-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mineflayer": "^4.35.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
