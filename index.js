@@ -68,7 +68,7 @@ app.post('/api/spawn-bot', (req, res) => {
 
   // Spawn bot
   const bot = mineflayer.createBot({
-    host: 'nikalukadata.aternos.me',
+    host: 'vendace.aternos.host',
     port: 29932,
     username: botName, 
     version: '1.20.4'
